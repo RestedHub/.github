@@ -2,9 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: ''
+labels: 'bug'
 assignees: ''
-
 ---
 
 **Describe the bug**
@@ -17,11 +16,14 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
+
+**Device**
+The Device and OS you were using when the bug occurred
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
+**Additional Context**
 Add any other context about the problem here.
